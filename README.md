@@ -72,7 +72,7 @@
 </header>
 
 <div class="container">
-    <h2>El Toyota Corolla: Un Clásico de Confiabilidad ESTA PAGINA FUE CREADA POR JUAN XICOHTENCATL LARA </h2>
+    <h2>El Toyota Corolla: Un Clásico de Confiabilidad ESTA PAGINA FUE CREADA POR JUAN FABIAN HERNANDEZ HERNANDEZ </h2>
     <div class="car-details">
         <div class="car-image">
 <body> 
